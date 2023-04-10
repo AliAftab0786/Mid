@@ -1,7 +1,7 @@
 **Introduction:**
-ThThis is a basic HTML code that creates a table with student information, including their name and SAP ID. The table has a caption, "Student table," and a border of 1 pixel. 
-The cellpadding and cellspacing attributes specify the amount of padding and space between the cells, respectively. 
+ThThis is a basic HTML code that creates a table with student information, including their name and SAP ID. The table has a caption, "Student table," and a border of 1 pixel. The cellpadding and cellspacing attributes specify the amount of padding and space between the cells, respectively. 
 The align attribute centers the table on the page.
+
 **Explianation:**
 The <thead> element contains the header row of the table, which includes the column names "Name" and "Sap id".
 The <tfoot> element contains the footer row of the table, which includes the copyright information.
